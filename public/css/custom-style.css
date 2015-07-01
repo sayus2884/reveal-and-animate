@@ -1,0 +1,21 @@
+#me{
+    height: 400px;
+}
+
+#git {
+    float: left;
+    margin-left: 50px;
+}
+
+#bitbucket {
+    float: right;
+    margin-right: 50px;
+}
+
+#git, #bitbucket{
+    height: 300px;
+}
+
+.align-horizontal{
+    display: inline-block;
+}
